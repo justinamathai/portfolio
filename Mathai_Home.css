@@ -1,0 +1,30 @@
+ul{
+    list-style-type: none;
+}
+
+.active a {
+    background-color: #ffd1d1 !important;
+}
+
+body{
+    background-color: #ffefef;
+}
+
+img{
+    border: #ffd1d1 15px solid;
+}
+
+.hero{
+background-image: url('https://i.pinimg.com/originals/03/ae/94/03ae9498d8b166346860307858948985.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	font-family: 'times new roman';
+	font-size: 50px;
+	text-align: center;
+}
+
+h2{
+    font-size: 75px;
+}

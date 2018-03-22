@@ -1,0 +1,27 @@
+.active a {
+    background-color: #ffd1d1 !important;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+body{
+    background-color: #ffefef;
+}
+
+.jumbotron{
+    background-color: #ffd1d1;
+}

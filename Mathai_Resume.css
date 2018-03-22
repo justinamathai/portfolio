@@ -1,0 +1,17 @@
+iframe{
+    width: 1000px;
+    height: 500px;
+}
+
+.active a {
+    background-color: #ffd1d1 !important;
+}
+
+body{
+    background-color: #ffefef;
+}
+
+.jumbotron{
+    background-color: #ffd1d1;
+    text-align: center;
+}

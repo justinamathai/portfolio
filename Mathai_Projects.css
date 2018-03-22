@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+}
+
+.active a {
+    background-color: #ffd1d1 !important;
+}
+
+
+body{
+    background-color: #ffefef;
+}
+
+img{
+    border: #ffb2b2 15px solid;
+}
+
+.jumbotron{
+    background-color: #ffd1d1;
+}
